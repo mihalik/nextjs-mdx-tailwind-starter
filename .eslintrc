@@ -1,0 +1,4 @@
+{
+  "extends": ["unobtrusive", "unobtrusive/react", "unobtrusive/import"],
+  "env": { "browser": true, "node": true }
+}
